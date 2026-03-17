@@ -54,7 +54,7 @@ Vision:
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="45"/>
 </a>
 <a href="https://leetcode.com/u/Rajansharma017">
-<img src="https://commons.wikimedia.org/wiki/File:LeetCode_logo_black.png" height="45"/>
+<img src="https://cdn.theorg.com/36218b9f-879b-481e-9332-ebc4692d7587_thumb.jpg" height="45"/>
 </a>
 
 
@@ -63,7 +63,7 @@ Vision:
 
 
 <!---profile views--->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajansharma01-com=Profile%20views&color=0e75b6&style=flat" alt="rajansharma01-com" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajansharma01-com&label=Profile%20views&color=0e75b6&style=flat" alt="rajansharma01-com"/> </p>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212750695-1c6c52a5-4e6f-4f5e-b4f4-74d7a7f6fbb3.gif" width="100%">
