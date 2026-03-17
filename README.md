@@ -1,46 +1,129 @@
-# 💫 About Me:
-🔭 I’m currently pursuing a Bachelor’s degree in Computer Science from GLA University, Mathura.<br><br>👯 I’m looking to collaborate with tech-enthusiastic companies and developers to work on innovative projects.<br><br>🤝 I’m looking for opportunities to improve my development skills and gain real-world experience.<br><br>🌱 I’m currently learning Frontend Development (HTML, CSS, JavaScript, and modern frameworks).<br><br>💬 Ask me about web development, programming basics, and problem solving.<br><br>⚡ Fun fact: I enjoy solving coding problems and exploring new technologies in my free time.
+<!-- ================= HEADER ================= -->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&center=true&vCenter=true&lines=Hi+I'm+Rajan+Sharma;CS+Student+at+GLA+University;Future+Tech+Leader;Building+Impactful+Tech+Solutions" />
+</h1>
+<!-- ================= ABOUT ================= -->
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rajan.rise) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajan-sharma017) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@natsciver01) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rajan Sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajansharma2309@gmail.com) 
+<h2>🧬 About Me</h2>
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=flat&logo=SquareEnix&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajansharma01-com&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rajansharma01-com&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajansharma01-com&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<pre>
+Hi 👋, I'm <b>Rajan Sharma</b><br>
+A passionate Full Stack Developer from India
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajansharma01-com&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rajansharma01-com&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=rajansharma01-com&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@RajanSharma82) 
-
+- 🔭 I’m currently pursuing a Bachelor’s degree in <b>
+       Computer Science Engineering from GLA University</b>
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+- 🌱 I’m currently learning <b>DSA, Frontend Development, MERN and Automation</b>
+  
+- 👯 I’m looking to collaborate with <b>tech-enthusiastic companies
+       and developers to work on innovative projects</b>
+  
+- 💬 Ask me about <b>Web Development, MERN & Representation,
+       Automation, Programming Basics, and Problem Solving</b>
 
-<!--
-**rajansharma01-com/rajansharma01-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vision:
+- <b>Build Tech Products with Global Impact</b>
 
-Here are some ideas to get you started:
+💡 Tip:
+- 📗 <b>If you're interested in collaborating or have any questions —
+       I'd love to hear from you!</b>
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2 align="center">🌐 Feel free to connect with me</h2>
+
+<h3 align="left">🔗 Social:-</h3>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rajan-sharma017">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="45"/>
+</a>
+
+<a href="mailto:rajansharma2309@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="45"/>
+</a>
+
+</p>
+
+<h3 align="left">💻 Coding Profiles:</h3>
+<p align="center">
+
+<a href="https://www.hackerrank.com/profile/rajansharma2309">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="45"/>
+</a>
+<a href="https://leetcode.com/u/Rajansharma017">
+<img src="https://commons.wikimedia.org/wiki/File:LeetCode_logo_black.png" height="45"/>
+</a>
+
+
+
+</p>
+
+
+<!---profile views--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajansharma01-com=Profile%20views&color=0e75b6&style=flat" alt="rajansharma01-com" /> </p>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212750695-1c6c52a5-4e6f-4f5e-b4f4-74d7a7f6fbb3.gif" width="100%">
+<hr>
+<!-- ================= TECH STACK ================= -->
+
+<h2 align="center">🧠 Languages & Tools</h2>
+
+<h3 align="left">💻 Languages</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java" />
+</p>
+
+<h3 align="left">🎨 Frontend Development</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+<h3 align="left">🛠 Other Tools</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+<hr>
+
+
+<h2 align="center">📊 GitHub Intelligence Dashboard</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rajansharma01-com&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajansharma01-com&theme=tokyonight&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajansharma01-com&layout=compact&theme=tokyonight&hide_border=true" width="50%">
+</p>
+
+<hr>
+
+<h2 align="center">🧠 AI Research Activity Graph</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajansharma01-com&theme=react-dark&hide_border=true" />
+</p>
+
+<hr>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<hr>
+
+<h2 align="center">🧩 Future Tech Vision</h2>
+
+<p align="center">
+Building intelligent systems that merge <b>AI + Software + Business Strategy</b>
+</p>
+<!-- ================= FOOTER ================= -->
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
